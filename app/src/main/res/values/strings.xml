@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ValuteApp</string>
+    <string name="tv1">TextView</string>
+    <string name="tv2">TextView</string>
+    <string name="tv4">TextView</string>
+    <string name="tv3">TextView</string>
+</resources>
